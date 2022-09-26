@@ -1,0 +1,16 @@
+{
+  "type": "module",
+  "name": "clase-5-practica-tp-1",
+  "version": "1.0.0",
+  "description": "Sistema de gestión de turnos para consultorio medico.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "nodemon --exec mocha --recursive"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
